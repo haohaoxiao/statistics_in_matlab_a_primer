@@ -18,7 +18,7 @@ who
 % Now save the variables in another file.
 % We will save just the setosa variable object.
 % Use save filename varname.
-% save setosa setosa
+save setosa setosa
 
 % See what files are in the current directory.
 dir
